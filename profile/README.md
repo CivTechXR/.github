@@ -26,9 +26,9 @@ CivTechXR is the official organization for the next-level Realistic Roleplay ser
 
 ---
 
-## 🛠️ Roadmap for All Modules (10h/week)
+## 🛠️ Roadmap for All Modules 
 
-### Phase 1 – Foundation (4–6 months)
+### Phase 1 – Foundation 
 **Repos:** `CTXR_main_module`, `CTXR_administration`  
 **Tasks:**
 - Set up project structure
@@ -36,27 +36,27 @@ CivTechXR is the official organization for the next-level Realistic Roleplay ser
 - Start admin panel & permissions system
 - Dev server setup & CI/CD
 
-### Phase 2 – Core Gameplay (6–8 months)
+### Phase 2 – Core Gameplay 
 **Repos:** `CTXR_clothingsys`, `CTXR_economie`, `CTXR_smartphone`  
 **Tasks:**
 - Clothing system with inventory and UI
 - Economy system including shops
 - Smartphone OS with messaging & banking (v1)
 
-### Phase 3 – Immersion Systems (10–12 months)
+### Phase 3 – Immersion Systems
 **Repos:** `CTXR_health`, `CTXR_crimesince`  
 **Tasks:**
 - Medical system (doctor, injuries)
 - Police, gangs, wanted system
 
-### Phase 4 – Services & Expansion (12–14 months)
+### Phase 4 – Services & Expansion 
 **Repos:** `CTXR_rescue`, `CTXR_service`, `CTXR_politics`  
 **Tasks:**
 - Implement firefighters & disaster response
 - Public services: bus, train, garbage collection
 - Government system, laws, elections
 
-### Long-Term Extras (ongoing)
+### Long-Term Extras 
 - Smartphone v2 with app framework
 - AI system for offline players
 - Gamer protection / session limits
@@ -66,10 +66,9 @@ CivTechXR is the official organization for the next-level Realistic Roleplay ser
 
 ## ✅ Organization Notes
 
-- **Access & Roles:** Owner = you, Admin = core developers, Contributor = community/volunteers
 - **Issues & Projects:** Each repo has its own Kanban board
 - **Readme:** Each repo includes a clear description, installation instructions, and roadmap
-- **License:** Open Source or community license (MIT or GPL recommended)
+- **License:** MIT
 
 ---
 
